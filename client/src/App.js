@@ -7,6 +7,7 @@ import Signup from "./pages/Signup";
 import Inventory from "./pages/Inventory";
 import Navbar from "./components/Navbar";
 import About from "./pages/About";
+import Contact from "./pages/Contact";
 // import Footer from "./components/Footer";
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Route exact path="/signup" component={Signup} />
         <Route exact path="/inventory" component={Inventory} />
         <Route exact path="/about" component={About} />
+        <Route exact path="/contact" component={Contact} />
         {/* <Footer /> */}
       </div>
     </Router>
