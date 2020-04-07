@@ -3,7 +3,7 @@ import React from "react";
 function Inventory() {
   return (
     <div>
-      <p>I think you all make a valid point!</p>
+      <p>Shut up Sign up, no one asked you. Pizza is gross all around and so are all of you.</p>
     </div>
   );
 }
